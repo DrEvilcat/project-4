@@ -1,3 +1,3 @@
-username = "postgres"
-password = 	"fish"
-database_name = "project4"
+username =
+password = 
+database_name = 
